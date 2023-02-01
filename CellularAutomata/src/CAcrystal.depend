@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1424362091 source:c:\users\willmor\desktop\kmc-serial\cacrystal\casi.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<string.h>
+	"mersenTwister.h"
+	"mersenTwister.c"
+
+1409841143 c:\users\willmor\desktop\kmc-serial\cacrystal\mersentwister.h
+
+1409841134 c:\users\willmor\desktop\kmc-serial\cacrystal\mersentwister.c
+	<stdio.h>
+	"mersenTwister.h"
+
