@@ -3,5 +3,6 @@
 *.xyz
 *.o
 *.exe
+*.meta
 Visualize_Unity5/Library/metadata/
 
