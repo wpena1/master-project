@@ -1,5 +1,7 @@
 # Ignore Logs
 *.log
 *.xyz
+*.o
+*.exe
 Visualize_Unity5/Library/metadata/
 
